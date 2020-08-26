@@ -1,0 +1,11 @@
+Akzeptieren Sie: Text / HTML, Anwendung / xhtml + xml, Anwendung / xml; q = 0,9, * / *; q = 0,8
+
+Akzeptiere-Sprache: en-us, en; q = 0,5
+
+Accept-Encoding: gzip, entleeren
+
+Accept-Charset: ISO-8859-1, utf-8; q = 0,7, *; q = 0,7
+
+Keep-Alive: 115
+
+Verbindung: Keep-AliveWenn Sie
